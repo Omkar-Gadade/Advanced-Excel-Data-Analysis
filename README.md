@@ -27,4 +27,8 @@ AtliQ Business Model Report consisting of:-
 3. Top 10 Products by Net Sales 2021 vs 2020 with region, division and customer filter.
 4. Division Level Report with respect to Net Sales 2020 and 2021 and comparison between 2020 and 2021 with customer and region filter.
 5. Top/Bottom 5 Products with respect to Quantity and filter Pivot Table by Market, Region and Customer Filters.
+6. New Products 2021 report consisting of all value filtered New Products.
+7. Top 5 Countries value filter Report.
+8. Profit and Loss statement report pivot table consisting of created measures Net Sales,COGS, Gross Margin and Gross Margin%.
+9. Profit and Loss statement by Fiscal Years. 
    
